@@ -1,0 +1,7 @@
+2020-12-06 13:47:21 INFO  prepareEnvForTest:23 - prepare an environment for run test
+2020-12-06 13:47:21 INFO  prepareEnvForTest:26 - initiation elements
+2020-12-06 13:47:21 INFO  prepareEnvForTest:13 - execute : class testPageObjectExample.testPageByRating
+2020-12-06 13:47:21 INFO  prepareEnvForTest:14 - execute test which is displayed movies with rating >= 9.0
+2020-12-06 13:47:25 INFO  prepareEnvForTest:16 - print out to console movies
+2020-12-06 13:47:25 INFO  prepareEnvForTest:17 - finish execution the  : class testPageObjectExample.testPageByRating
+2020-12-06 13:47:26 INFO  prepareEnvForTest:32 - close an environment after test
